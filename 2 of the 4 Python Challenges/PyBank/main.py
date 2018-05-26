@@ -3,7 +3,7 @@ import csv
 import os
 # Copy the path for budget_data_1.csv or budget_data_2.csv  into os.path.join("") as below
 
-budget_data = os.path.join("/Users/abulla/Desktop/python/pybank/budget_data_1.csv")
+budget_data = os.path.join("/Users/abulla/Desktop/python/pandas/USCLOS201805DATA1-Class-Repository-DATA-master/02-Homework/03-Python/Instructions/PyBank/raw_data/budget_data_1.csv")
 # initially create an empty row the hold the variables 'Date' & 'Revenue'.
 # Note that they are columns 
 Dates = []
